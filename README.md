@@ -17,16 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 Tech stack
+### 🔭 Tech
 - ReactJS
 - NodeJS
 - TypeScript
 - MongoDB
 - MySQL
 
-### ⚡ My small contributions to the community
+### ⚡ Library
 - npm package - [dates-generator](https://www.npmjs.com/package/dates-generator)
 
-### 👯 I’m open to collaborate on any open source or interesting projects.
+### 🚀 Stats
+![Ibrahim github stats](https://github-readme-stats.vercel.app/api?username=aibrahim3546)
 
-### 📫 How to reach me: contact@ahmadibrahim.io
+#### 👯 I’m open to collaborate on any open source or interesting projects.
+
+#### 📫 How to reach me: contact@ahmadibrahim.io
