@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hey there! 👋 
+#### Ibrahim - @aibrahim3546
+Hey  I'm a Software Engineer at [MoneyLion](https://moneylion.com) working on helping people to take control of their financial life.
+Do have a look at my cool website at [ahmadibrahim.io](https://ahmadibrahim.io).
 <!--
 **aibrahim3546/aibrahim3546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 Tech stack
+- ReactJS
+- NodeJS
+- TypeScript
+- MongoDB
+- MySQL
+
+### ⚡ My small contributions to the community
+- npm package - [dates-generator](https://www.npmjs.com/package/dates-generator)
+
+### 👯 I’m open to collaborate on any open source or interesting projects.
+
+### 📫 How to reach me: contact@ahmadibrahim.io
