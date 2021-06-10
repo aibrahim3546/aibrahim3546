@@ -1,7 +1,3 @@
-### Hey there! 👋 
-#### Ibrahim - @aibrahim3546
-I'm a Software Engineer at [MoneyLion](https://moneylion.com) working on helping people to take control of their financial life.
-Do have a look at my cool website at [ahmadibrahim.io](https://ahmadibrahim.io).
 <!--
 **aibrahim3546/aibrahim3546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hey there! 👋 
+#### Ibrahim - @aibrahim3546
+I'm a Software Engineer at [MoneyLion](https://moneylion.com) working on helping people to take control of their financial life.
+Do have a look at my cool website at [ahmadibrahim.io](https://ahmadibrahim.io).
+
+### 🚀 Stats
+![Ibrahim github stats](https://github-readme-stats.vercel.app/api?username=aibrahim3546)
+
 ### 🔭 Tech
 - ReactJS
 - NodeJS
@@ -26,9 +30,6 @@ Here are some ideas to get you started:
 
 ### ⚡ Library
 - npm package - [dates-generator](https://www.npmjs.com/package/dates-generator)
-
-### 🚀 Stats
-![Ibrahim github stats](https://github-readme-stats.vercel.app/api?username=aibrahim3546)
 
 #### 👯 I’m open to collaborate on any open source or interesting projects.
 
