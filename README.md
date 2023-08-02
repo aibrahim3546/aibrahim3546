@@ -15,21 +15,20 @@ Here are some ideas to get you started:
 
 ### Hey there! 👋 
 #### Ibrahim - @aibrahim3546
-I'm a Software Engineer at [MoneyLion](https://moneylion.com) working on helping people to take control of their financial life.
-Do have a look at my cool website at [ahmadibrahim.io](https://ahmadibrahim.io).
+My name is Ibrahim, I am dedicated Software Engineer with 5+ years of experience specializing in frontend development. I'm currently a Senior Frontend Developer at [Xsolla](https://xsolla.com) working on improving the game industry.
 
-### 🚀 Stats
-![Ibrahim github stats](https://github-readme-stats.vercel.app/api?username=aibrahim3546)
+More about me at: [ahmadibrahim.io](https://ahmadibrahim.io)
 
 ### 🔭 Tech
 - ReactJS
+- React Native
 - NodeJS
 - TypeScript
 - MongoDB
 - MySQL
 
-### ⚡ Library
-- npm package - [dates-generator](https://www.npmjs.com/package/dates-generator)
+### ⚡ OS
+- [dates-generator](https://www.npmjs.com/package/dates-generator)
 
 #### 👯 I’m open to collaborate on any open source or interesting projects.
 
