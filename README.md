@@ -29,6 +29,7 @@ More about me at: [ahmadibrahim.io](https://ahmadibrahim.io)
 
 ### ⚡ OS
 - [dates-generator](https://www.npmjs.com/package/dates-generator)
+- [@skolacode/calendar-js](https://www.npmjs.com/package/@skolacode/calendar-js)
 
 #### 👯 I’m open to collaborate on any open source or interesting projects.
 
