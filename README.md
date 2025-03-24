@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey there! 👋 
 #### Ibrahim - @aibrahim3546
-My name is Ibrahim, I am dedicated Software Engineer with 6+ years of experience specializing in frontend development. I'm currently a Senior Frontend Developer at [Ryt Bank](https://rytbank.my) working on improving the game industry.
+My name is Ibrahim, I am dedicated Software Engineer with 6+ years of experience specializing in frontend development. I'm currently a Senior Frontend Engineer at [Ryt Bank](https://rytbank.my) working on revolutionizing the finance industry.
 
 ### 🔭 Tech
 - ReactJS
