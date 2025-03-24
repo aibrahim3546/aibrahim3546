@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey there! 👋 
 #### Ibrahim - @aibrahim3546
-My name is Ibrahim, I am dedicated Software Engineer with 5+ years of experience specializing in frontend development. I'm currently a Senior Frontend Developer at [Xsolla](https://xsolla.com) working on improving the game industry.
-
-More about me at: [ahmadibrahim.io](https://ahmadibrahim.io)
+My name is Ibrahim, I am dedicated Software Engineer with 6+ years of experience specializing in frontend development. I'm currently a Senior Frontend Developer at [Ryt Bank](https://rytbank.my) working on improving the game industry.
 
 ### 🔭 Tech
 - ReactJS
@@ -30,7 +28,5 @@ More about me at: [ahmadibrahim.io](https://ahmadibrahim.io)
 ### ⚡ OS
 - [dates-generator](https://www.npmjs.com/package/dates-generator)
 - [@skolacode/calendar-js](https://www.npmjs.com/package/@skolacode/calendar-js)
-
-#### 👯 I’m open to collaborate on any open source or interesting projects.
 
 #### 📫 How to reach me: aibrahim3546@gmail.com
